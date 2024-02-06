@@ -1,5 +1,5 @@
 cred.json
-teraform.locl.hcl
-teraform/
+.terraform.lock.hcl
+.terraform
 terraform.tfstate.backup
 terraform.tfstate
