@@ -1,0 +1,5 @@
+cred.json
+teraform.locl.hcl
+teraform/
+terraform.tfstate.backup
+terraform.tfstate
